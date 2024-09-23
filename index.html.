@@ -1,0 +1,10 @@
+<body>
+  <h1>Photagraphy</h1>
+  <div id="introduction">
+    <h2>My Photos</h2>
+</div>
+  <div id="media">
+    <h2>Media</h2>
+    <img src="file:///home/5APCSP/Downloads/20240915_124239.jpg" />
+  </div>
+</body>
