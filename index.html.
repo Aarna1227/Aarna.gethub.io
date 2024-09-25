@@ -1,5 +1,9 @@
 <!DOCTYPE html>
 <html>
+<head>
+<title>Nature Pictures</title>
+</head>
+<body style="color:black;">
 <body>
   <h1>Photagraphy</h1>
   <div id="introduction">
@@ -13,10 +17,5 @@ body {background:Almond;}
     <img src="file:///home/5APCSP/Downloads/20240915_124239.jpg" />
   </div>
 </body>
-<!DOCTYPE html>
-<html>
-<head>
-<title>Nature Pictures</title>
-</head>
-<body style="color:black;">
+
 </html>
